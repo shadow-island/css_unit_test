@@ -1,0 +1,31 @@
+	.main >* {
+		vertical-align: top; // Align children verticaly
+	}
+	.input_box {	
+		border-color: Red;  
+		border-style: solid;
+		border-width: 1px;			
+		width: -moz-fit-content;		
+	}
+	.column {			
+		width:	40%;
+		display:inline-block;		
+		
+		border-color: Red;  
+		border-style: solid;
+		border-width: 1px;
+		
+		margin: 15px;
+		padding: 5px;					
+		font-size: 20px;		    
+	}
+	.border {			
+		width:	90%;		
+		border-color: Blue;  
+		border-style: solid;
+		border-width: 1px;
+		
+		margin: 15px;
+		padding: 5px;					
+		font-size: 20px;		    
+	}
